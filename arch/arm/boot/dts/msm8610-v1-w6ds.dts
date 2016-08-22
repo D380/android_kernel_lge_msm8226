@@ -11,8 +11,8 @@
  */
 
 
-/include/ "../msm8610-lge-common/msm8610-v1-lge.dtsi"
-/include/ "msm8610-w6ds.dtsi"
+/include/ "msm8610-lge-common/msm8610-v1-lge.dtsi"
+/include/ "msm8610-w6ds_global_com/msm8610-w6ds.dtsi"
 
 
 / {
